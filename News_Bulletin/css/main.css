@@ -1,0 +1,68 @@
+body {
+	font-family: 'Playfair Display', serif;
+	border: 1px solid black;
+	padding: 5px 10px 10px 10px;
+	text-align: left;
+	background-color: #fdf5e8;
+	text-align: center;
+}
+
+.catNews {
+	border: 1px solid black;
+	padding: 5px;
+	margin-bottom: 0px;
+}
+
+.pictureStory {
+	margin-top: 0px;
+	font-weight: 100;
+	font-size: 10px;
+	font-style: italic;
+}
+
+h1 {
+	color: black;
+	font-family: 'Abril Fatface', cursive;
+	text-transform: uppercase;
+}
+
+h3 {
+	text-decoration: underline;
+}
+
+a {
+	font-style: italic;
+	font-weight: 100;
+	font-size: 13px;
+	text-decoration: none;
+}
+div {
+	border: 1px solid black;
+	width: 30px;
+	height: 30px;
+	margin: 20px 70px;
+	display: inline-block;
+	box-shadow: 5px 5px 5px #888888;
+	border-radius: 3px;
+}
+.boxOne {
+	background-color: #468499;
+}
+.boxTwo {
+	background-color: #088da5;
+}
+.boxThree {
+	background-color: #fa8072;
+}
+.boxFour {
+	background-color: #ffff00;
+}
+.boxFive {
+	background-color: #20b2aa;
+}
+.boxSix	{
+	background-color: #fff68f;
+}
+.boxSeven {
+	background-color: #ff6666;
+}
