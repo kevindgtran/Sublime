@@ -1,0 +1,17 @@
+header {
+	background-color: #cccccc;
+}
+
+a {
+	padding: 10px;
+	text-decoration: none;
+	display: block;
+	color: white;
+	background-color: #ffa500;
+	/*margin-right: 90%;*/
+	width: 100px;
+}
+
+a:hover {
+	background-color: #cccccc;
+}

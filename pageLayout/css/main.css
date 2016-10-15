@@ -1,0 +1,65 @@
+body {
+	background-color: #333333;
+	text-align: center;
+}
+
+.headerBox {
+	background-color: #808080;
+	width: 98%;
+	height: 100px;
+	border-radius: 10px;
+	margin: 20px auto;
+}
+
+.headerBox:hover{
+	background-color: #f6546a;
+	text-transform: uppercase;
+	text-transform: bold;
+}
+
+a {
+	text-decoration: none;
+	font-family: 'Raleway', sans-serif;
+	color: #eeeeee;
+	font-size: 25px;
+}
+
+.mainBox {
+	background-color: #808080;
+	width: 60%;
+	height: 450px;
+	border-radius: 10px;
+	margin: 10px auto;
+}
+
+.mainBox:hover {
+	background-color: #088da5;
+	text-transform: uppercase;
+	text-transform: bold;
+}
+
+/* need to position asides */
+/*.asideRight {
+	background-color: #808080;
+	width: 30%;
+	height: 450px;
+	border-radius: 10px;
+	margin: 10px auto;
+}*/
+
+.footerBox {
+	background-color: #808080;
+	width: 98%;
+	height: 100px;
+	border-radius: 10px;
+	margin: 20px auto;
+}
+
+.footerBox:hover{
+	background-color: #ff7f50;
+	text-transform: uppercase;
+	text-transform: bold;
+}
+
+
+
