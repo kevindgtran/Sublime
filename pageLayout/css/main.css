@@ -8,7 +8,7 @@ body {
 	width: 98%;
 	height: 100px;
 	border-radius: 10px;
-	margin: 20px auto;
+	margin: 20px auto 10px;
 }
 
 .headerBox:hover{
@@ -24,12 +24,28 @@ a {
 	font-size: 25px;
 }
 
+.asideLeft {
+	float: left;
+	background-color: #808080;
+	width: 240px;
+	height: 450px;
+	border-radius: 10px;
+	margin: 10px 20px;
+}
+
+.asideLeft:hover {
+	background-color: #6dc066;
+	text-transform: uppercase;
+	text-transform: bold;
+}
+
 .mainBox {
+	float: left;
 	background-color: #808080;
 	width: 60%;
 	height: 450px;
 	border-radius: 10px;
-	margin: 10px auto;
+	margin: 10px auto 20px;
 }
 
 .mainBox:hover {
@@ -38,21 +54,28 @@ a {
 	text-transform: bold;
 }
 
-/* need to position asides */
-/*.asideRight {
+.asideRight {
+	float: left;
 	background-color: #808080;
-	width: 30%;
+	width: 240px;
 	height: 450px;
 	border-radius: 10px;
-	margin: 10px auto;
-}*/
+	margin: 10px 20px;	
+}
+
+.asideRight:hover {
+	background-color: #daa520;
+	text-transform: uppercase;
+	text-transform: bold;
+}
 
 .footerBox {
+	clear: both;
 	background-color: #808080;
 	width: 98%;
 	height: 100px;
 	border-radius: 10px;
-	margin: 20px auto;
+	margin: 50px auto;
 }
 
 .footerBox:hover{
