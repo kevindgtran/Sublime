@@ -1,15 +1,14 @@
 header {
 	background-color: #cccccc;
+	height: 58px;
 }
 
 a {
-	padding: 10px;
+	float: left;
+	padding: 20px;
 	text-decoration: none;
-	display: block;
 	color: white;
 	background-color: #ffa500;
-	/*margin-right: 90%;*/
-	width: 100px;
 }
 
 a:hover {
